@@ -5043,6 +5043,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimeVietsub",
+    "pkg": "eu.kanade.tachiyomi.animeextension.vi.animevietsub",
+    "apk": "aniyomi-vi.animevietsub-v14.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimeVietsub",
+        "lang": "vi",
+        "id": "8403388926739991946",
+        "baseUrl": "https://animevietsub.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anime1.me",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.anime1",
     "apk": "aniyomi-zh.anime1-v14.4.apk",

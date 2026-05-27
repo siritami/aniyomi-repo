@@ -5045,10 +5045,10 @@
   {
     "name": "Aniyomi: AnimeVietsub",
     "pkg": "eu.kanade.tachiyomi.animeextension.vi.animevietsub",
-    "apk": "aniyomi-vi.animevietsub-v14.8.apk",
+    "apk": "aniyomi-vi.animevietsub-v14.1.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "14.8",
+    "code": 1,
+    "version": "14.1",
     "nsfw": 0,
     "sources": [
       {

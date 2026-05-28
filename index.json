@@ -5097,6 +5097,24 @@
     ]
   },
   {
+    "name": "Aniyomi: VLXX",
+    "pkg": "eu.kanade.tachiyomi.animeextension.vi.vlxx",
+    "apk": "aniyomi-vi.vlxx-v14.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "VLXX",
+        "lang": "vi",
+        "id": "4726589274926941994",
+        "baseUrl": "https://vlxx.moi",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anime1.me",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.anime1",
     "apk": "aniyomi-zh.anime1-v14.4.apk",

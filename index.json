@@ -5061,6 +5061,24 @@
     ]
   },
   {
+    "name": "Aniyomi: HentaiZ",
+    "pkg": "eu.kanade.tachiyomi.animeextension.vi.hentaiz",
+    "apk": "aniyomi-vi.hentaiz-v14.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "HentaiZ",
+        "lang": "vi",
+        "id": "4399909888598427352",
+        "baseUrl": "https://hentaiz.ac",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anime1.me",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.anime1",
     "apk": "aniyomi-zh.anime1-v14.4.apk",
